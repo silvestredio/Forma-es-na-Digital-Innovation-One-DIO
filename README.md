@@ -62,8 +62,6 @@ No dia 01/10/2020 publiquei no Linkedin e no Twitter as 14 Formações de Bootca
 
 #### [14. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Programa Empregotech Curitiba - Básico em 25/06/2020 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno.](https://certificates.digitalinnovation.one/896E0FAE)![DIO 14 Programa Emprogotech Basico](https://user-images.githubusercontent.com/76437195/104135741-4f798400-5368-11eb-8223-cce9d182c738.jpg)
 
-#### [15. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Impulso React Web Developer em 07/11/2021 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno](https://certificates.digitalinnovation.one/BCE51C86)
-
-![10 Bootcamp Impulso React Web Developer](https://user-images.githubusercontent.com/93165498/141662781-4394b18d-0007-48fa-9f21-f3b99392e0ca.jpg) 
+#### [15. O certificado acima atesta que Orlando SilvestreFilho concluiu com êxito o bootcamp Impulso React Web Developer em 07/11/2021 na Digital Innovation One. O certificado indica que todo o bootcamp foi concluído, conforme validado pelo aluno](https://certificates.digitalinnovation.one/BCE51C86) ![Bootcamp Impulso React We Developer DIO](https://user-images.githubusercontent.com/93165498/141687878-08cccecb-823c-4065-a45f-9d7068bbd655.jpg)
 
 #TrilhosDigitais #19dez19 #SilvestreTI 
